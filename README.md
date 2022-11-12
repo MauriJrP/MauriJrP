@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MauriJrP
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently working on Oracle as part of the Autonomous Linux team
-- 📫 You can reach me at maurijrp200@gmail.com
+- 🌱 I’m currently working at Oracle as part of the Autonomous Linux team
+- 📫 You can reach me at maurijrp2001@gmail.com
