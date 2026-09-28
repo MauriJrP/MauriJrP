@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MauriJrP
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently working at Oracle as part of the Autonomous Linux team
+- 🌱 I’m currently working at [Activo](https://activoeam.com/) as SDE
 - 📫 You can reach me at maurijrp2001@gmail.com
